@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Wisdom Imah
 
-### 🎨 Front-End Developer | 🧠 UI/UX Designer | 🌍 Tech Enthusiast
+### 💻 Front-End Developer | 🌍 Tech Enthusiast
 
 Welcome to my GitHub!  
-I'm a **Front-End Developer** and **UI/UX Designer** passionate about crafting clean, modern, and responsive web experiences.  
-I love turning creative ideas into functional and visually appealing digital products.
+I'm a **Front-End Developer** passionate about creating clean, modern, and responsive web experiences.  
+I enjoy turning creative ideas into functional and user-friendly digital products.
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently improving my skills in **React.js**, **Tailwind CSS**, and **TypeScript**
-- 💡 Interested in building **interactive websites** and **web apps** with a strong design foundation  
+- 💡 Interested in building **interactive websites** and **web apps**
 - 🧩 Focused on **responsive design**, **smooth user interactions**, and **clean code**
-- 💬 Ask me about **front-end development**, **web design**, or **React**
+- 💬 Ask me about **front-end development**, **React**, or **modern web design**
 - 🎯 Goal: To become a full-stack developer and contribute to impactful projects
 
 ---
@@ -23,22 +23,13 @@ I love turning creative ideas into functional and visually appealing digital pro
 ### 💻 Front-End
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Frameworks/Libraries:** React.js, Vite, Next.js (learning)
-- **Styling:** Tailwind CSS, SCSS, Bootstrap, Figma for design
+- **Styling:** Tailwind CSS, SCSS, Bootstrap
 
 ### 🧰 Tools
 - Git & GitHub  
 - VS Code  
-- Adobe XD / Figma  
+- Figma  
 - Netlify / Vercel
-
----
-
-## 🎨 My Design Philosophy
-> “Design isn’t just what it looks like and feels like — design is how it works.”  
-> — *Steve Jobs*
-
-I believe a great interface should be both **beautiful and intuitive**, balancing aesthetics and functionality.  
-My workflow bridges **design and code**, ensuring that what I envision visually can come to life technically.
 
 ---
 
@@ -61,5 +52,14 @@ My workflow bridges **design and code**, ensuring that what I envision visually 
 
 ---
 
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
 ### ✨ Thanks for stopping by!
 If you like my work, consider giving my repositories a ⭐ — it means a lot!
+
